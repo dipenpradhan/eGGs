@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">PoLYMeR eGGs</string>
+    <string name="str_startmenu_title">PoLYMers</string>
+    <string name="str_startmenu_start">Start</string>
+    <string name="str_startmenu_exit">Exit</string>
+    <string name="str_startmenu_about">About</string>
+</resources>
